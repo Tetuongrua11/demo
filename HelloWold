@@ -3,7 +3,7 @@ u#include <conio.h>
 
 int main()
 {
-	printf("feature_x!!!");
+	printf("new!!!");
 	getch();
 	return 0;
 }
